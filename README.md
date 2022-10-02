@@ -1,4 +1,4 @@
-# vh-calculator
+# MB-Webinar-Frontend
 
 ## Project setup
 ```
